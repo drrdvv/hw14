@@ -1,2 +1,3 @@
 # hw14
-sk_card_case3 - https://drrdvv.github.io/hw14/
+типовой макет карточки товара для магазина электроники
+https://drrdvv.github.io/hw14/
